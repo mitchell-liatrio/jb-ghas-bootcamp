@@ -1,0 +1,10 @@
+version: 2
+updates:
+  - package-ecosystem: "pip"
+    commit-message:
+      prefix: "pip"
+    assignees: 
+      - "jbankes"
+      - "wai-calvin"
+    labels:
+      - "triage-required"
